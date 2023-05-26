@@ -1,0 +1,23 @@
+{
+    "swagger": "2.0",
+    "info": {
+        "description": "Student Management",
+        "version": "1.0.0",
+        "title": "Student Management",
+        "termsOfService": "http://swagger.io/terms/",
+        "contact": {
+            "email": "safwaan@doodlblue.com"
+        },
+        "license": {
+            "name": "Apache 2.0",
+            "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
+        }
+    },
+    "host": "localhost:2001",
+    "basePath": "/api/v1/user",
+    "tags": [],
+    "schemes": [
+        "http"
+    ],
+    "paths": {}
+}
